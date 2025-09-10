@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mesentman
-- 👀 I’m interested in Embedded Systems, also Eletrical Engineering 
+- 👀 I’m interested in Embedded Systems, also Electrical Engineering 
 - 🌱 I’m currently learning C++, and Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like lifting weights, and exercising. I have 2 dogs Sophie and Captain
